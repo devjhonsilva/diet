@@ -19,8 +19,8 @@ export default {
     GRAY_100: "#1B1D1E",
   },
   FONT_FAMILY: {
-    REGULAR: "Nunitosans_400Regular",
-    BOLD: "Nunitosans_700Bold",
+    REGULAR: "NunitoSans_400Regular",
+    BOLD: "NunitoSans_700Bold",
   },
   FONT_SIZE: {
     SM: 12,
